@@ -1,0 +1,10 @@
+Copyright: Original Siemens Equipment
+PLC name: SIMATIC 300(1)
+Module type: CPU 319-3 PN/DP
+Unknown (129): Boot Loader           A
+Module: 6ES7 318-3EL00-0AB0  v.0.9
+Basic Firmware: v.2.8.4
+Module name: CPU 319-3 PN/DP
+Serial number of module: S C-B2U436802011
+Plant identification: 
+Basic Hardware: 6ES7 318-3EL00-0AB0  v.0.9

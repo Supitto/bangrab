@@ -1,0 +1,10 @@
+Copyright: Original Siemens Equipment
+PLC name: Hydronit M2
+Module type: IM151-8F PN/DP CPU
+Unknown (129): Boot Loader           A
+Module: 6ES7 151-8FB01-0AB0  v.0.2
+Basic Firmware: v.3.2.3
+Module name: IM151-8F PN/DP CPU
+Serial number of module: S C-B6UX46202011
+Plant identification: Hydronit S2
+Basic Hardware: 6ES7 151-8FB01-0AB0  v.0.2

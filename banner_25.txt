@@ -1,0 +1,10 @@
+Copyright: Original Siemens Equipment
+PLC name: ET 200S-Station_1
+Module type: IM151-8 PN/DP CPU
+Unknown (129): Boot Loader           A%
+Module: 6ES7 151-8AB01-0AB0  v.0.6
+Basic Firmware: v.3.2.11
+Module name: PLC_1
+Serial number of module: S C-F6C273142015
+Plant identification: 
+Basic Hardware: 6ES7 151-8AB01-0AB0  v.0.6

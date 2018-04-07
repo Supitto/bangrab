@@ -1,0 +1,10 @@
+Copyright: Original Siemens Equipment
+PLC name: CPU 313C
+Module type: CPU 313C
+Unknown (129): Boot Loader           A%
+Module: 6ES7 313-5BG04-0AB0  v.0.4
+Basic Firmware: v.3.3.10
+Module name: CPU 313C
+Serial number of module: S Q-E2U027792014
+Plant identification: 
+Basic Hardware: 6ES7 313-5BG04-0AB0  v.0.4

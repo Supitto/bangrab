@@ -1,0 +1,10 @@
+Copyright: Original Siemens Equipment
+PLC name: R51.0 Thies
+Module type: CPU 315-2 DP
+Unknown (129): Boot Loader           A%
+Module: 6ES7 315-2AH14-0AB0  v.0.6
+Basic Firmware: v.3.3.11
+Module name: CPU 315-2 DP
+Serial number of module: S C-H5DN95912016
+Plant identification: 
+Basic Hardware: 6ES7 315-2AH14-0AB0  v.0.6

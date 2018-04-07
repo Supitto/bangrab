@@ -1,0 +1,10 @@
+Copyright: Original Siemens Equipment
+PLC name: SIMATIC 300 Station
+Module type: CPU 314
+Unknown (129): Boot Loader           A
+Module: 6ES7 314-1AG13-0AB0  v.0.3
+Basic Firmware: v.2.6.6
+Module name: CPU 314
+Serial number of module: S C-W9UF06112008
+Plant identification: 
+Basic Hardware: 6ES7 314-1AG13-0AB0  v.0.3

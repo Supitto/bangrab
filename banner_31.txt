@@ -1,0 +1,10 @@
+Copyright: Original Siemens Equipment
+PLC name: S7300/ET200M station_1
+Module type: CPU 314
+Unknown (129): Boot Loader           A%
+Module: 6ES7 314-1AG14-0AB0  v.0.6
+Basic Firmware: v.3.3.11
+Module name: PLC_1
+Serial number of module: S C-FODW99482015
+Plant identification: 
+Basic Hardware: 6ES7 314-1AG14-0AB0  v.0.6

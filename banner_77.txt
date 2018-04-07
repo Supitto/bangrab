@@ -1,0 +1,10 @@
+Copyright: Original Siemens Equipment
+PLC name: SIMATIC 300(1)
+Module type: IM151-8 PN/DP CPU
+Unknown (129): Boot Loader           A%
+Module: 6ES7 151-8AB01-0AB0  v.0.5
+Basic Firmware: v.3.2.10
+Module name: IM151-8 PN/DP CPU
+Serial number of module: S C-E2TT94242014
+Plant identification: 
+Basic Hardware: 6ES7 151-8AB01-0AB0  v.0.5

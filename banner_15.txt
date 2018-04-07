@@ -1,0 +1,10 @@
+Copyright: Original Siemens Equipment
+PLC name: CPU 315-2DP
+Module type: CPU 315-2 PN/DP
+Unknown (129): Boot Loader           A
+Module: 6ES7 315-2EH14-0AB0  v.0.2
+Basic Firmware: v.3.1.1
+Module name: CPU 315-2PN/DP
+Serial number of module: S C-A8W414622010
+Plant identification: 
+Basic Hardware: 6ES7 315-2EH14-0AB0  v.0.2

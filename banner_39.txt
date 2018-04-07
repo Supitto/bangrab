@@ -1,0 +1,10 @@
+Copyright: Original Siemens Equipment
+PLC name: SIMATIC 300(1)
+Module type: CPU 315-2 PN/DP
+Unknown (129): Boot Loader           A%
+Module: 6ES7 315-2EH14-0AB0  v.0.7
+Basic Firmware: v.3.2.11
+Module name: CPU 315-2 PN/DP
+Serial number of module: S C-H1BC50462016
+Plant identification: 
+Basic Hardware: 6ES7 315-2EH14-0AB0  v.0.7

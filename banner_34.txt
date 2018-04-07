@@ -1,0 +1,10 @@
+Copyright: Original Siemens Equipment
+PLC name: HMS
+Module type: CPU 315-2 PN/DP
+Unknown (129): Boot Loader           A
+Module: 6ES7 315-2EH14-0AB0  v.0.4
+Basic Firmware: v.3.2.7
+Module name: CPU 315-2 PN/DP
+Serial number of module: S C-CDUP81682012
+Plant identification: 
+Basic Hardware: 6ES7 315-2EH14-0AB0  v.0.4

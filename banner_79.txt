@@ -1,0 +1,9 @@
+Location designation of a module: 
+Copyright: Original Siemens Equipment
+Module type: IM151-8 PN/DP CPU
+PLC name: Technodrome
+Module: v.0.0
+Plant identification: Mouser Factory
+OEM ID of a module: 
+Module name: Siemens, SIMATIC, S7-200
+Serial number of module: 88111222
